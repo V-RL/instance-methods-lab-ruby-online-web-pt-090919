@@ -8,7 +8,7 @@ def Dog
   end
 end 
 
-fido == Dog.new 
+baxter = Dog.new 
 
 fido.bark
 fido.sit 
