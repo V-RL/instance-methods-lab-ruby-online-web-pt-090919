@@ -7,5 +7,6 @@ class Person
     puts "The Person is walking"
   end
 end
-
-per
+guy = Person.new 
+guy.talk
+guy.walk 
